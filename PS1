@@ -1,2 +1,12 @@
-#Scott Margeson
-#PS1 11.s947 Spring 2016
+"""
+Scott Margeson
+PS1 11.s947 Spring 2016
+"""
+#Do the following:
+#    Create a list containing any 4 strings.
+L1=['chocolate','cookie','cake','candy']
+#    Print the 3rd item in the list
+#    Print the 1st and 2nd item in the list using [:] index slicing.
+#    Add a new string with text “last” to the end of the list and print the list.
+#    Get the list length and print it.
+#    Replace the last item in the list with the string “new” and print
